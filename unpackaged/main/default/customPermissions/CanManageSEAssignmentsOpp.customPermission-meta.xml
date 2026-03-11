@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomPermission xmlns="http://soap.sforce.com/2006/04/metadata">
+    <description>Grants the ability to add or manage Sales Engineers (SE) on Opportunity Teams. This permission bypasses the validation rule that restricts SEs from self-assigning, enabling managerial oversight for resource allocation.</description>
+    <isLicensed>false</isLicensed>
+    <label>CanManageSEAssignmentsOpp</label>
+</CustomPermission>
